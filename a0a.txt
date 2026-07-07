@@ -31,6 +31,7 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 
 03:00 [l]World Cup[z]	^-
 Switzerland vs Colombia	https://hls.live123.fans/live/4459807.m3u8
+Switzerland vs Colombia Live	https://live.kinxie.com/live/53452523_3d33d9b8c420f991d02e0a9f359a3a5a.m3u8
 Switzerland vs Colombia HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH75CQrkwA5N/playlist.m3u8
 Switzerland vs Colombia SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH75CQrkwA5N/playlist.m3u8
 Switzerland vs Colombia	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374250/switzerland-vs-colombia.html
