@@ -1,0 +1,298 @@
+[w]Playlist[z] [y]Main Menu[z]	^-
+
+[l]{h} *3 Kodi[z]	^^h3
+[l]{h} * Free IPTV[z]	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
+[l]{h} * International Sports[z]	^^hk^sports.m3u
+🌍 Countries: International	^^hc^int.m3u
+🆔 Indonesia	^^hc^id.m3u
+🇹🇭 Thailand	^^hc^th.m3u
+🇻🇳 Vietnam	^^hc^vn.m3u
+🇵🇭 Philippines	^^hc^ph.m3u
+🇱🇦 Laos	^^hc^la.m3u
+🇲🇾 Malaysia	^^hc^my.m3u
+🇰🇭 Cambodia	^^hc^kh.m3u
+🇸🇬 Singapore	^^hc^sg.m3u
+🇧🇳 Brunei	^^hc^bn.m3u
+🇲🇲 Myanmar (Burma)	^^hc^mm.m3u
+🇺🇸 United States	^^hc^us.m3u
+🇨🇳 China	^^hc^cn.m3u
+🇮🇳 India	^^hc^in.m3u
+🇮🇹 Italy	^^hc^it.m3u
+🇨🇦 Canada	^^hc^ca.m3u
+🇦🇷 Argentina	^^hc^ar.m3u
+🇪🇸 Spain	^^hc^es.m3u
+🇧🇷 Brazil	^^hc^br.m3u
+🇫🇷 France	^^hc^fr.m3u
+🇲🇽 Mexico	^^hc^mx.m3u
+🇷🇺 Russia	^^hc^ru.m3u
+🇨🇱 Chile	^^hc^cl.m3u
+🇩🇪 Germany	^^hc^de.m3u
+🇩🇴 Dominican Republic	^^hc^do.m3u
+🇹🇷 Turkey	^^hc^tr.m3u
+🇵🇪 Peru	^^hc^pe.m3u
+🇳🇱 Netherlands	^^hc^nl.m3u
+🇨🇴 Colombia	^^hc^co.m3u
+🇬🇧 United Kingdom	^^hc^uk.m3u
+🇬🇹 Guatemala	^^hc^gt.m3u
+🇭🇳 Honduras	^^hc^hn.m3u
+🇪🇨 Ecuador	^^hc^ec.m3u
+🇨🇷 Costa Rica	^^hc^cr.m3u
+🇻🇪 Venezuela	^^hc^ve.m3u
+🇵🇾 Paraguay	^^hc^py.m3u
+🇧🇴 Bolivia	^^hc^bo.m3u
+🇬🇷 Greece	^^hc^gr.m3u
+🇷🇴 Romania	^^hc^ro.m3u
+🇭🇺 Hungary	^^hc^hu.m3u
+🇵🇷 Puerto Rico	^^hc^pr.m3u
+🇰🇷 South Korea	^^hc^kr.m3u
+🇸🇻 El Salvador	^^hc^sv.m3u
+🇯🇵 Japan	^^hc^jp.m3u
+🇮🇶 Iraq	^^hc^iq.m3u
+🇺🇦 Ukraine	^^hc^ua.m3u
+🇮🇷 Iran	^^hc^ir.m3u
+🇵🇦 Panama	^^hc^pa.m3u
+🇳🇮 Nicaragua	^^hc^ni.m3u
+🇺🇾 Uruguay	^^hc^uy.m3u
+🇪🇬 Egypt	^^hc^eg.m3u
+🇳🇬 Nigeria	^^hc^ng.m3u
+🇨🇺 Cuba	^^hc^cu.m3u
+🇦🇪 United Arab Emirates	^^hc^ae.m3u
+🇵🇰 Pakistan	^^hc^pk.m3u
+🇵🇱 Poland	^^hc^pl.m3u
+🇹🇼 Taiwan	^^hc^tw.m3u
+🇰🇪 Kenya	^^hc^ke.m3u
+🇸🇦 Saudi Arabia	^^hc^sa.m3u
+🇸🇰 Slovakia	^^hc^sk.m3u
+🇸🇳 Senegal	^^hc^sn.m3u
+🇦🇺 Australia	^^hc^au.m3u
+🇲🇦 Morocco	^^hc^ma.m3u
+🇵🇹 Portugal	^^hc^pt.m3u
+🇯🇴 Jordan	^^hc^jo.m3u
+🇱🇾 Libya	^^hc^ly.m3u
+🇹🇳 Tunisia	^^hc^tn.m3u
+🇩🇿 Algeria	^^hc^dz.m3u
+🇱🇧 Lebanon	^^hc^lb.m3u
+🇨🇭 Switzerland	^^hc^ch.m3u
+🇧🇪 Belgium	^^hc^be.m3u
+🇵🇸 Palestine	^^hc^ps.m3u
+🇸🇴 Somalia	^^hc^so.m3u
+🇺🇬 Uganda	^^hc^ug.m3u
+🇨🇩 Democratic Republic of the Congo	^^hc^cd.m3u
+🇰🇿 Kazakhstan	^^hc^kz.m3u
+🇸🇩 Sudan	^^hc^sd.m3u
+🇨🇿 Czech Republic	^^hc^cz.m3u
+🇭🇹 Haiti	^^hc^ht.m3u
+🇦🇹 Austria	^^hc^at.m3u
+🇿🇦 South Africa	^^hc^za.m3u
+🇨🇲 Cameroon	^^hc^cm.m3u
+🇩🇯 Djibouti	^^hc^dj.m3u
+🇫🇮 Finland	^^hc^fi.m3u
+🇲🇷 Mauritania	^^hc^mr.m3u
+🇨🇮 Ivory Coast	^^hc^ci.m3u
+🇰🇲 Comoros	^^hc^km.m3u
+🇷🇸 Serbia	^^hc^rs.m3u
+🇰🇼 Kuwait	^^hc^kw.m3u
+🇸🇾 Syria	^^hc^sy.m3u
+🇧🇬 Bulgaria	^^hc^bg.m3u
+🇲🇰 North Macedonia	^^hc^mk.m3u
+🇨🇾 Cyprus	^^hc^cy.m3u
+🇦🇿 Azerbaijan	^^hc^az.m3u
+🇸🇪 Sweden	^^hc^se.m3u
+🇾🇪 Yemen	^^hc^ye.m3u
+🇬🇭 Ghana	^^hc^gh.m3u
+🇦🇲 Armenia	^^hc^am.m3u
+🇴🇲 Oman	^^hc^om.m3u
+🇩🇰 Denmark	^^hc^dk.m3u
+🇶🇦 Qatar	^^hc^qa.m3u
+🇦🇫 Afghanistan	^^hc^af.m3u
+🇧🇭 Bahrain	^^hc^bh.m3u
+🇭🇷 Croatia	^^hc^hr.m3u
+🇲🇹 Malta	^^hc^mt.m3u
+🇸🇮 Slovenia	^^hc^si.m3u
+🇧🇾 Belarus	^^hc^by.m3u
+🇱🇻 Latvia	^^hc^lv.m3u
+🇲🇩 Moldova	^^hc^md.m3u
+🇺🇿 Uzbekistan	^^hc^uz.m3u
+🇧🇯 Benin	^^hc^bj.m3u
+🇱🇺 Luxembourg	^^hc^lu.m3u
+🇪🇪 Estonia	^^hc^ee.m3u
+🇹🇯 Tajikistan	^^hc^tj.m3u
+🇹🇬 Togo	^^hc^tg.m3u
+🇧🇦 Bosnia and Herzegovina	^^hc^ba.m3u
+🇨🇬 Republic of the Congo	^^hc^cg.m3u
+🇷🇼 Rwanda	^^hc^rw.m3u
+🇹🇿 Tanzania	^^hc^tz.m3u
+🇦🇱 Albania	^^hc^al.m3u
+🇪🇹 Ethiopia	^^hc^et.m3u
+🇬🇳 Guinea	^^hc^gn.m3u
+🇲🇳 Mongolia	^^hc^mn.m3u
+🇳🇵 Nepal	^^hc^np.m3u
+🇳🇿 New Zealand	^^hc^nz.m3u
+🇬🇵 Guadeloupe	^^hc^gp.m3u
+🇮🇪 Ireland	^^hc^ie.m3u
+🇱🇰 Sri Lanka	^^hc^lk.m3u
+🇧🇫 Burkina Faso	^^hc^bf.m3u
+🇬🇦 Gabon	^^hc^ga.m3u
+🇲🇱 Mali	^^hc^ml.m3u
+🇧🇩 Bangladesh	^^hc^bd.m3u
+🇨🇻 Cape Verde	^^hc^cv.m3u
+🇬🇶 Equatorial Guinea	^^hc^gq.m3u
+🇮🇱 israHell	^^hc^il.m3u
+🇰🇬 Kyrgyzstan	^^hc^kg.m3u
+🇱🇹 Lithuania	^^hc^lt.m3u
+🇲🇶 Martinique	^^hc^mq.m3u
+🇲🇿 Mozambique	^^hc^mz.m3u
+🇪🇭 Western Sahara	^^hc^eh.m3u
+🇦🇴 Angola	^^hc^ao.m3u
+🇽🇰 Kosovo	^^hc^xk.m3u
+🇲🇼 Malawi	^^hc^mw.m3u
+🇧🇱 Saint Barthélemy	^^hc^bl.m3u
+🇲🇫 Saint Martin	^^hc^mf.m3u
+🇿🇼 Zimbabwe	^^hc^zw.m3u
+🇬🇲 Gambia	^^hc^gm.m3u
+🇬🇪 Georgia	^^hc^ge.m3u
+🇲🇬 Madagascar	^^hc^mg.m3u
+🇳🇪 Niger	^^hc^ne.m3u
+🇳🇴 Norway	^^hc^no.m3u
+🇸🇱 Sierra Leone	^^hc^sl.m3u
+🇦🇼 Aruba	^^hc^aw.m3u
+🇧🇼 Botswana	^^hc^bw.m3u
+🇧🇮 Burundi	^^hc^bi.m3u
+🇹🇩 Chad	^^hc^td.m3u
+🇱🇷 Liberia	^^hc^lr.m3u
+🇲🇺 Mauritius	^^hc^mu.m3u
+🇾🇹 Mayotte	^^hc^yt.m3u
+🇳🇦 Namibia	^^hc^na.m3u
+🇷🇪 Réunion	^^hc^re.m3u
+🇸🇹 São Tomé and Príncipe	^^hc^st.m3u
+🇸🇿 Swaziland	^^hc^sz.m3u
+🇿🇲 Zambia	^^hc^zm.m3u
+🇨🇫 Central African Republic	^^hc^cf.m3u
+🇨🇼 Curacao	^^hc^cw.m3u
+🇹🇱 East Timor	^^hc^tl.m3u
+🇪🇷 Eritrea	^^hc^er.m3u
+🇹🇫 French Southern Territories	^^hc^tf.m3u
+🇬🇼 Guinea-Bissau	^^hc^gw.m3u
+🇯🇲 Jamaica	^^hc^jm.m3u
+🇱🇸 Lesotho	^^hc^ls.m3u
+🇸🇭 Saint Helena	^^hc^sh.m3u
+🇸🇨 Seychelles	^^hc^sc.m3u
+🇸🇸 South Sudan	^^hc^ss.m3u
+🇬🇫 French Guiana	^^hc^gf.m3u
+🇲🇪 Montenegro	^^hc^me.m3u
+🇦🇩 Andorra	^^hc^ad.m3u
+🇸🇽 Sint Maarten	^^hc^sx.m3u
+🇹🇲 Turkmenistan	^^hc^tm.m3u
+🇻🇦 Vatican City	^^hc^va.m3u
+🇬🇾 Guyana	^^hc^gy.m3u
+🇲🇻 Maldives	^^hc^mv.m3u
+🇹🇹 Trinidad and Tobago	^^hc^tt.m3u
+🇦🇬 Antigua and Barbuda	^^hc^ag.m3u
+🇧🇸 Bahamas	^^hc^bs.m3u
+🇱🇨 Saint Lucia	^^hc^lc.m3u
+🇧🇧 Barbados	^^hc^bb.m3u
+🇻🇬 British Virgin Islands	^^hc^vg.m3u
+🇩🇲 Dominica	^^hc^dm.m3u
+🇮🇸 Iceland	^^hc^is.m3u
+🇰🇳 Saint Kitts and Nevis	^^hc^kn.m3u
+🇦🇮 Anguilla	^^hc^ai.m3u
+🇧🇿 Belize	^^hc^bz.m3u
+🇰🇾 Cayman Islands	^^hc^ky.m3u
+🇬🇩 Grenada	^^hc^gd.m3u
+🇱🇮 Liechtenstein	^^hc^li.m3u
+🇲🇨 Monaco	^^hc^mc.m3u
+🇲🇸 Montserrat	^^hc^ms.m3u
+🇻🇨 Saint Vincent and the Grenadines	^^hc^vc.m3u
+🇹🇨 Turks and Caicos Islands	^^hc^tc.m3u
+🇻🇮 U.S. Virgin Islands	^^hc^vi.m3u
+🇭🇰 Hong Kong	^^hc^hk.m3u
+🇸🇲 San Marino	^^hc^sm.m3u
+🇧🇹 Bhutan	^^hc^bt.m3u
+🇬🇱 Greenland	^^hc^gl.m3u
+🇰🇵 North Korea	^^hc^kp.m3u
+🇧🇲 Bermuda	^^hc^bm.m3u
+🇬🇺 Guam	^^hc^gu.m3u
+🇲🇴 Macao	^^hc^mo.m3u
+🇫🇲 Micronesia	^^hc^fm.m3u
+🇵🇲 Saint Pierre and Miquelon	^^hc^pm.m3u
+🇼🇸 Samoa	^^hc^ws.m3u
+🇫🇯 Fiji	^^hc^fj.m3u
+🇵🇫 French Polynesia	^^hc^pf.m3u
+🇦🇸 American Samoa	^^hc^as.m3u
+🇨🇰 Cook Islands	^^hc^ck.m3u
+🇰🇮 Kiribati	^^hc^ki.m3u
+🇲🇭 Marshall Islands	^^hc^mh.m3u
+🇳🇷 Nauru	^^hc^nr.m3u
+🇳🇨 New Caledonia	^^hc^nc.m3u
+🇳🇺 Niue	^^hc^nu.m3u
+🇳🇫 Norfolk Island	^^hc^nf.m3u
+🇲🇵 Northern Mariana Islands	^^hc^mp.m3u
+🇵🇼 Palau	^^hc^pw.m3u
+🇵🇬 Papua New Guinea	^^hc^pg.m3u
+🇵🇳 Pitcairn Islands	^^hc^pn.m3u
+🇸🇧 Solomon Islands	^^hc^sb.m3u
+🇸🇷 Suriname	^^hc^sr.m3u
+🇹🇰 Tokelau	^^hc^tk.m3u
+🇹🇴 Tonga	^^hc^to.m3u
+🇹🇻 Tuvalu	^^hc^tv.m3u
+🇻🇺 Vanuatu	^^hc^vu.m3u
+🇼🇫 Wallis and Futuna	^^hc^wf.m3u
+🇧🇻 Bouvet Island	^^hc^bv.m3u
+🇫🇰 Falkland Islands	^^hc^fk.m3u
+🇬🇸 South Georgia and the South Sandwich Islands	^^hc^gs.m3u
+🇧🇶 Bonaire	^^hc^bq.m3u
+🇫🇴 Faroe Islands	^^hc^fo.m3u
+🇬🇬 Guernsey	^^hc^gg.m3u
+Movies	^^hk^movies.m3u
+Kids	^^hk^kids.m3u
+Series	^^hk^series.m3u
+Animation	^^hk^animation.m3u
+Undefined	^^hk^undefined.m3u
+General	^^hk^general.m3u
+News	^^hk^news.m3u
+Religious	^^hk^religious.m3u
+Music	^^hk^music.m3u
+Entertainment	^^hk^entertainment.m3u
+Legislative	^^hk^legislative.m3u
+Education	^^hk^education.m3u
+Culture	^^hk^culture.m3u
+Lifestyle	^^hk^lifestyle.m3u
+Documentary	^^hk^documentary.m3u
+Shop	^^hk^shop.m3u
+Business	^^hk^business.m3u
+Comedy	^^hk^comedy.m3u
+Classic	^^hk^classic.m3u
+Outdoor	^^hk^outdoor.m3u
+Family	^^hk^family.m3u
+Travel	^^hk^travel.m3u
+Cooking	^^hk^cooking.m3u
+Science	^^hk^science.m3u
+Weather	^^hk^weather.m3u
+Auto	^^hk^auto.m3u
+Relax	^^hk^relax.m3u
+{h} *14 iptv-org	^^h14
+{h} Ⓢ10 0 Samsung	^^h10
+{h} Ⓟ11 1 Pluto	^^h11
+
+[y]{h} *9 Al Qur'an.mp3[z]	^^h9
+[l]{h} *7 Conspiracy Truth 1[z]	^^h7
+[l]{h} *8 Conspiracy Truth 2[z]	^^h8
+[y]Movies Channels Multi Sub +Indo[z]	^-
+[l]{s} Ⓢc0 Movies Film[z]	^^s0
+[l]{h} *12 Movies Film VOD 1[z]	^^h12
+[l]{h} *13 Movies Film VOD 2 Mobile[z]	^^h13
+[l]{h} Ⓨ4 Movies Film 1[z]	^^h4
+[l]{h} Ⓩ5 Movies Film 2[z]	^^h5
+[l]{h} Ⓣ6 Movies Film 3[z]	^^h6
+[y]🆔 Indo Channels: Ⓜa1, Ⓧa2[z]	^-
+[l]{s} Ⓗa0 ⚽️Live Sports[z]	^^sa0
+[l]{s} Ⓜa1 🤹Multi 🆔[z]	^^sa1
+[l]{s} Ⓧa2 🤺eXtra 🆔[z]	^^sa2
+[l]{h} Ⓞb0 Okay[z]	^^hb0
+[l]{h} Ⓒb1 Cool[z]	^^hb1
+[l]{h} Ⓕb2 Fun[z]	^^hb2
+[l]{h} Ⓦb3 Wow Sports![z]	^^hb3
+[l]{h} Ⓟc1 Pluto[z]	^^h1
+[l]{s} Ⓘc2 SportsTV[z]	^^s2
+
+	^-
