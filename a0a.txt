@@ -27,15 +27,6 @@ NEW 👉[l]Ⓧa2 Movies/Films with Multi Subtitles👈[z]	^^sa2
 ^#2. Ignore X=Frame headers.[].c👉Use Chrome Browser for other streaming videos!👈[z]c.	^-
 ^#	^-
 
-08.07.2026	^-
-
-03:00 [l]World Cup[z]	^-
-Switzerland vs Colombia	https://hls.live123.fans/live/4459807.m3u8
-Switzerland vs Colombia Live	https://live.kinxie.com/live/53452523_3d33d9b8c420f991d02e0a9f359a3a5a.m3u8
-Switzerland vs Colombia HD	https://apxvf0ws91.yarncdn.live/live/hd-en-6MvYMRTH75CQrkwA5N/playlist.m3u8
-Switzerland vs Colombia SD	https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTH75CQrkwA5N/playlist.m3u8
-Switzerland vs Colombia	`Fhttps://www.fctv33.ws/football/fifa-world-cup-match-4374250/switzerland-vs-colombia.html
-
 10.07.2026	^-
 
 03:00 [l]World Cup[z]	^-
@@ -59,6 +50,8 @@ World Cup CT Sport	https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.m
 
 [l]RePlay & ReWatch Full Match[z]	^-
 
+Switzerland vs Colombia 1H	https://img.refooty.com/m3u8/14640-275qc.m3u8
+Switzerland vs Colombia 2H	https://img.refooty.com/m3u8/14641-1P22I.m3u8
 Argentina vs Egypt 1H	https://img.refooty.com/m3u8/14636-WQaGg.m3u8
 Argentina vs Egypt 2H	https://img.refooty.com/m3u8/14637-Zddwf.m3u8
 USA vs Belgium FM	https://img.refooty.com/m3u8/14634-o4F2f.m3u8
